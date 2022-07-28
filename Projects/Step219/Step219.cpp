@@ -7,6 +7,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+
+    Dog* doggo = new Dog;
+
     
 }
 

@@ -2,6 +2,7 @@
 #include <string>
 class Dog
 {
+
 public:
 	std:: string Breed;
 	std::string Color;
