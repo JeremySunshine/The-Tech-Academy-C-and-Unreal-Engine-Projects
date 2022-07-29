@@ -6,11 +6,12 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-
-    Dog* doggo = new Dog;
-
-    
+    Dog Husky;
+    Husky.breed = "Siberian Husky";
+    Husky.color = "Black/White";
+    Husky.Weight = "60 Lbs";
+    Husky.Height = "24 in.";
+    return 0;  
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

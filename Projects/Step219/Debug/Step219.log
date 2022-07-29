@@ -1,0 +1,20 @@
+﻿  Dog.cpp
+C:\Users\jerem\source\repos\Step219\Dog.h(7,8): error C3646: 'breed': unknown override specifier
+C:\Users\jerem\source\repos\Step219\Dog.h(7,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jerem\source\repos\Step219\Dog.h(8,9): error C3646: 'color': unknown override specifier
+C:\Users\jerem\source\repos\Step219\Dog.h(8,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jerem\source\repos\Step219\Dog.h(9,9): error C3646: 'Weight': unknown override specifier
+C:\Users\jerem\source\repos\Step219\Dog.h(9,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jerem\source\repos\Step219\Dog.h(10,9): error C3646: 'Height': unknown override specifier
+C:\Users\jerem\source\repos\Step219\Dog.h(10,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jerem\source\repos\Step219\Dog.h(14,2): error C2065: 'cout': undeclared identifier
+C:\Users\jerem\source\repos\Step219\Dog.h(14,20): error C2065: 'breed': undeclared identifier
+C:\Users\jerem\source\repos\Step219\Dog.h(19,2): error C2065: 'cout': undeclared identifier
+C:\Users\jerem\source\repos\Step219\Dog.h(19,20): error C2065: 'breed': undeclared identifier
+C:\Users\jerem\source\repos\Step219\Dog.h(24,3): error C2065: 'cout': undeclared identifier
+C:\Users\jerem\source\repos\Step219\Dog.h(24,21): error C2065: 'breed': undeclared identifier
+  Step219.cpp
+C:\Users\jerem\source\repos\Step219\Step219.cpp(8,5): error C2146: syntax error: missing ';' before identifier 'main'
+C:\Users\jerem\source\repos\Step219\Step219.cpp(9,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\jerem\source\repos\Step219\Step219.cpp(9,1): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

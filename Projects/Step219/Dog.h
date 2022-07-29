@@ -1,27 +1,28 @@
 #pragma once
-#include <string>
+using namespace std;
 class Dog
 {
 
 public:
-	std:: string Breed;
-	std::string Color;
-	int Weight;
-	int Height;
+ string breed;
+ string color;
+ string Weight;
+ string Height;
 
-public: void Shake()
+ void Shake()
 {
-	
+	cout << " The " + breed + " shakes \n" ;
 }
 
-public: void Sit()
+ void Sit()
 {
-
+	cout << " The " + breed + " sits \n";
 }
 
-public: void Laydown()
+ void liesDown()
 {
-
+	 cout << " The " + breed + " shakes \n";
+ 
 }
 
 };
