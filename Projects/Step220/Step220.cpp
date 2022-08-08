@@ -1,25 +1,29 @@
 using namespace std;
 #include <iostream>
 
-class Rectangle()
+class Shape
+{
+public: 
+    void Color
+
+
+    void getArea()
+
+        class Rectangle::Shape
+
+        class Triangle::Shape
+
+        class Circle::Shape
+};
+
+
+
+
+
+
+int main()
 {
     
-};
-class Triangle()
-{
-
-};
-class Circle()
-{
-    
-};
-
-
-
-int shape()
-{
-    string color;
-    string GetArea;
 
 };
 
