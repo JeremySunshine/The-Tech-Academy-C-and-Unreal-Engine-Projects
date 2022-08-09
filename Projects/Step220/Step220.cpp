@@ -3,21 +3,42 @@ using namespace std;
 
 class Shape
 {
-public: 
-    void Color
+public: string Color;
+      int getArea()
+      {
 
-
-    void getArea()
-
-        class Rectangle::Shape
-
-        class Triangle::Shape
-
-        class Circle::Shape
+      }
 };
 
+class Circle : public Shape
+{
+public: 
+    int Height;
+    int Width
+    int getArea() {
 
+    }
+};
 
+class Triangle : public Shape
+{
+public:
+    int Height;
+    int Width
+    int getArea() {
+
+    }
+};
+
+class Triangle : public Shape
+{
+public:
+    int Height;
+    int Width
+    int getArea() {
+
+    }
+};
 
 
 
