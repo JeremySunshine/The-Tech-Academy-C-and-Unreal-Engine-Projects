@@ -13,29 +13,35 @@ public: string Color;
 class Circle : public Shape
 {
 public: 
-    int Height;
-    int Width
-    int getArea() {
-
+    int Radius;
+    int getArea()
+    {
+        return Radius;
     }
+    
 };
 
 class Triangle : public Shape
 {
 public:
     int Height;
-    int Width
+    int Base;
     int getArea() {
+        int x = Height;
+        int z = Base;
+        return x * z;
 
-    }
 };
 
-class Triangle : public Shape
+class Rectangle : public Shape
 {
 public:
     int Height;
-    int Width
+    int Width;
     int getArea() {
+        int x = Height;
+        int y = Width;
+        return x * y;
 
     }
 };
